@@ -78,6 +78,14 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
     style="padding-right : 10px;"
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"
 />
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right : 10px;"
+    src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png"
+/>
 <img 
     align="left" 
     alt="CSS" 
