@@ -84,7 +84,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
     title="SQL"
     width="30px"
     style="padding-right : 10px;"
-    src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png"
+    src="https://user-images.githubusercontent.com/22622770/116547188-4272a780-a8fb-11eb-89e1-e466aa6fd00c.png"
 />
 <img 
     align="left" 
