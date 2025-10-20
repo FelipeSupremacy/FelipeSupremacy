@@ -135,8 +135,8 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 />
 <img
     align="left"
-    alt="RStudio"
-    title="RStudio"
+    alt="R"
+    title="R"
     width="30px"
     style="padding-right : 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
