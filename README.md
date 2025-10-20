@@ -70,6 +70,14 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
     style="padding-right : 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 />
+<img
+    align="left"
+    alt="Power BI"
+    title="Power BI"
+    width="20px"
+    style="padding-right : 10px;"
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"
+/>
 <img 
     align="left" 
     alt="CSS" 
