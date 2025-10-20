@@ -88,6 +88,14 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 />
 <img 
     align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
