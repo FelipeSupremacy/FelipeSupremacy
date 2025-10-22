@@ -88,6 +88,14 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 />
 <img 
     align="left" 
+    alt="Excel"
+    title="Excel" 
+    width="37px" 
+    style="padding-right : 20px;" 
+    src="https://camo.githubusercontent.com/0edebe64d8735e4bfb3e447b4f9a1035e7e6ffa2d225f8e2b8b928a9624b73bc/68747470733a2f2f692e6c6f6c692e6e65742f323032312f31312f32332f6c4b587842316643774c6376485a4d2e706e67" 
+/>
+<img 
+    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
