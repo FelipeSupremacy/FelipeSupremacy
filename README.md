@@ -74,9 +74,9 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
     align="left"
     alt="Power BI"
     title="Power BI"
-    width="20px"
+    width="30px"
     style="padding-right : 10px;"
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"
+    src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4"
 />
 <img
     align="left"
