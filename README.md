@@ -168,7 +168,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSupremacy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSupremacy&title=Tecnologias&theme=tokyonight&layout=compact&langs" 
   />
-
+     
 </p>
