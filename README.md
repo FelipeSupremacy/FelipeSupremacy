@@ -161,7 +161,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeSupremacy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FelipSupremacy&show_icons=true&count_private=true&theme=dracula" 
   />
 
 <img 
