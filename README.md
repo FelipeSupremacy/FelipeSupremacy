@@ -26,7 +26,37 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 </p>
 
 ---
+## ✏️ Informações
 
+<div align="left">
+<table>
+  <tr>
+    <td><strong>Nome:</strong></td> 
+    <td>Felipe Del Col</td>
+  </tr>
+  <tr>
+    <td><strong>Idade</strong></td>
+    <td>22 Anos (10/07/2003)</td>
+  </tr>
+  <tr>
+    <td><strong>Cidade e Estado:</strong></td> 
+    <td>Jundiaí / São Paulo - Brasil</td>
+  </tr>
+  <tr>
+    <td><strong>Email:</strong></td>
+    <td>delcolfelipe@gmail.com</td>
+  </tr>
+  <tr>
+    <td><strong>Formação:</strong></td>
+    <td>
+      Ensino Médio Técnico – Administração – <em>Professor Luiz Rosa</em><br>
+      Bacharelado – Sistemas de Informação – <em>FIAP</em>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
