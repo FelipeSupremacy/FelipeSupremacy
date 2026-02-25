@@ -186,22 +186,10 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=natdfcod&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=natdfcod&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=natdfcod&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipSupremacy&show_icons=true&count_private=true&theme=dracula" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSupremacy&title=Tecnologias&theme=tokyonight&layout=compact&langs" 
-  />
-     
-</p>
+
