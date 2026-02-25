@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580fcb&height=120&section=header"/>
+
 <div align="center">
   <a href="https://github.com/FelipeSupremacy"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Olá+,+eu+sou+o+Felipe+Del+Col" alt="Typing SVG" /></a>
   <h2 textcolor="66ccff">Sou estudante de Sistemas de Informações na FIAP!</h2>
@@ -193,3 +195,4 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580fcb&height=120&section=footer"/>
