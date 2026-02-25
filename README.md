@@ -9,6 +9,7 @@
 
 Me chamo Felipe Del Col, tenho 22 anos e sou natural de Jundiaí / São paulo. Eu estou cursando ensino superior na FIAP, Atualmente, no curso bacharelado "[Sistemas de Informação](https://www.fiap.com.br/graduacao/bacharelado/sistemas-de-informacao/?utm_term=sistemas%20de%20informa%C3%A7%C3%A3o&utm_campaign=GRAD+-+PSQ+%7C+Cursos+(SP)&utm_source=adwords&utm_medium=ppc&hsa_acc=3358810376&hsa_cam=22333543144&hsa_grp=179992794687&hsa_ad=738302261003&hsa_src=g&hsa_tgt=kwd-88318291&hsa_kw=sistemas%20de%20informa%C3%A7%C3%A3o&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22333543144&gbraid=0AAAAADqmiBDxT5k6-WX4p_Zj7daDDbkEy&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qcTjOA1-_FdRBDrjlJxj3b6jQpI54tl11js0FDGkpRLWbIiqLWXLixoC7uwQAvD_BwE)" na FIAP. 
 
+Minha trajetória une visão analítica, organização administrativa e conhecimento técnico, permitindo que eu enxergue os dados como ferramentas estratégicas para gerar insights, otimizar processos e apoiar a tomada de decisão. Tenho experiência acadêmica com Power BI, Excel, Power Query e Oracle SQL, além de conhecimentos em linguagens como Java, SQL, Python, R e JavaScript. Também desenvolvo projetos práticos e estudos contínuos por meio de cursos em Data Science, Big Data e desenvolvimento de software.
 
 Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do Linkedin "[Felipe Del Col](https://www.linkedin.com/in/felipe-del-col-5542372b6/0)" com varios certificados que eu compartilho por lá.
 
