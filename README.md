@@ -180,11 +180,11 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Linguagem M" 
+    title="Linguagem M"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://avatars.githubusercontent.com/u/42433549?s=200&v=4" 
 />  
 <br/>
 <br/>
