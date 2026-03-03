@@ -46,7 +46,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
   </tr>
   <tr>
     <td><strong>Cidade e Estado:</strong></td> 
-    <td>Jundiaí / São Paulo - Brasil</td>
+    <td>Jundiaí | São Paulo - Brasil</td>
   </tr>
   <tr>
     <td><strong>Email:</strong></td>
