@@ -190,9 +190,27 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu per
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=natdfcod&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=natdfcod&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natdfcod&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+  <table>
+    <tr>
+      <td>
+          <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=FelipeSupremacy&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFFF" height="165" alt="Github Status"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=FelipeSupremacy&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFFF" height="250" alt="Top Langs"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSupremacy&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+  
+<br><br>
+  <img src="https://komarev.com/ghpvc/?username=FelipeSupremacy&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 
 
